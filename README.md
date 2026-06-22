@@ -1,4 +1,4 @@
 # pk-demo
 This is my first Git Repository.
 <br>
-Author - Prathamesh Kshatriya
+Author - Prathamesh Kshatriya(pk)
